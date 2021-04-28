@@ -1,0 +1,127 @@
+#home{
+    background-color:#F0FFF0;
+    
+}
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+.green-btn{
+    background-color: #21B573;
+    color: white !important;
+    padding: 12px 28px !important;
+    border-radius: 33px;
+    
+}
+/* header section start */
+.navbar-brand img{
+    height: 60px;
+    text-align: left;
+}
+.header img{
+    width: 100%;
+}
+.tomato{
+    color: #FD511A;
+}
+.header h1{
+    font-style: normal !important;
+    font-weight: bold;
+    color:#000000;
+    font-size: 48px;
+
+}
+.green-text{
+    color: #21B573;
+}
+#counter .card{
+    border:none;
+    background-color:#F0FFF0;
+    padding: 30px;
+}
+#counter .card img{
+    width: 66px;
+    height: 80px;
+}
+#counter .card h5{
+    font-style: normal;
+font-weight: bold;
+font-size: 16px;
+
+color:#413960;
+}
+#counter .card p{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+ 
+color: #585859;
+}
+#counter .card:hover{
+    background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+#course .card{
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+   border-radius: 18px;
+}
+#course .card .card-footer img{
+    width: 18px;
+    height: 20px;
+}
+#course .card .card-footer{
+    background-color: white;
+    border: none;
+}
+#course .card .card-footer p{
+    font-size: 13px;
+
+}
+#course h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+ 
+color: #413960;
+}
+#course .card .card-body h5{
+    font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+ 
+color: #413960;
+}
+#testimonial h1{
+    font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+ text-align: center;
+color: #000000;
+}
+#testimonial img{
+    width: 120px;
+    height: 120px;
+}
+.carousel-indicators {
+    z-index: 15;
+    bottom: -25px;;
+   
+}
+.carousel-indicators [data-bs-target]{
+    background-color: #413960;
+}
+#footer{
+    background-color: #282531;
+    color: white !important;
+
+}
+#footer a {
+    color: white;
+}
+ 
